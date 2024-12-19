@@ -4,7 +4,7 @@ An electronics company has experienced significant growth in recent years. Howev
 
 The company has just completed a one-year sales period from September 2023 to September 2024. A data analyst has been assigned to examine the sales transaction data collected during this period. The insights derived from the analysis are expected to optimize sales strategies, enhance customer experience, and improve customer retention and revenue.
 
-This project is for the Milestone assignment given my Hacktiv8 Bootcamp program
+This project is for the Milestone assignment given by Hacktiv8 Bootcamp program. Data is from kaggle, can be accessed __[here](https://www.kaggle.com/datasets/cameronseamons/electronic-sales-sep2023-sep2024)__
 
 ## Problem Statement
 ### Problem Statement Explained Using the SMART Framework
