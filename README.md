@@ -7,12 +7,6 @@ The company has just completed a one-year sales period from September 2023 to Se
 This project is for the Milestone assignment given my Hacktiv8 Bootcamp program
 
 ## Problem Statement
-
-An electronics company has experienced significant growth in recent years. However, with increasing competition, the management recognizes the importance of gaining deeper insights into customer behavior, product sales trends, and the impact of factors such as payment methods and shipping types on overall business success.
-
-The company has just completed a one-year sales period from September 2023 to September 2024. A data analyst has been assigned to examine the sales transaction data collected during this period. The insights derived from the analysis are expected to optimize sales strategies, enhance customer experience, and improve customer retention and revenue.
-
-## Problem Statement
 ### Problem Statement Explained Using the SMART Framework
 1. **Specific**:
 Analyze customer data to understand demographics, purchasing patterns, and product performance.
