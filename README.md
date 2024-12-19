@@ -47,5 +47,5 @@ Through a comprehensive data analysis, the company can make informed decisions o
 8. Do customers who buy add-ons tend to give higher product ratings compared to those who don’t?
 
 ---
-The dashboard made from this EDA can be accessed __[here]__(https://public.tableau.com/app/profile/catherine.kezia.wijaya/viz/milestone_17297886994870/StatisticDescriptive?publish=yes)
+The dashboard made from this EDA can be accessed __[here](https://public.tableau.com/app/profile/catherine.kezia.wijaya/viz/milestone_17297886994870/StatisticDescriptive?publish=yes)__
 
